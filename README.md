@@ -2,18 +2,21 @@
 
 Hi! I'm **Saee Naik**, a first-year student passionate about **Data Science and AI**. I have learned **Python, Advanced Python, Python for NLP, and Python for Data Science**. I’m focused on building my skills through learning and practical projects.
 
-💻 Technical Skills
+**Technical Skills**
 
--**Programming**
-  -Python
--**Data Science**
-  -NumPy
-  -Pandas
-  -Matplotlib
-  -Seaborn
--**Database and SQL**
-  -SQL
-  -Advanced SQL
+💻 Programming
+   └── Python
+
+📊 Data Science & Visualization
+   ├── NumPy
+   ├── Pandas
+   ├── Matplotlib
+   └── Seaborn
+
+🗄️ Database & SQL
+   ├── SQL
+   └── Advanced SQL
+    
 <!--
 **saeenaik21/saeenaik21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
