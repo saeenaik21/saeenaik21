@@ -4,14 +4,14 @@ Hi! I'm **Saee Naik**, a first-year student passionate about **Data Science and 
 
 💻 Technical Skills
 
-**Programming**
+-**Programming**
   -Python
-**Data Science**
+-**Data Science**
   -NumPy
   -Pandas
   -Matplotlib
   -Seaborn
-**Database and SQL**
+-**Database and SQL**
   -SQL
   -Advanced SQL
 <!--
